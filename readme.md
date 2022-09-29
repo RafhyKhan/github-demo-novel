@@ -3,7 +3,7 @@ You will like those projects!
 
 ---
 
-# h1 This is a testing project! 8-)
+# This is a testing project!
 
 
 ___
